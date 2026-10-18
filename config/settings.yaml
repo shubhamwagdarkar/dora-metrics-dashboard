@@ -1,0 +1,11 @@
+github:
+  environment: production
+  per_page: 100
+
+pagerduty:
+  # null = all urgencies
+  urgency_filter: null
+
+reporting:
+  window_days: 30
+  default_format: terminal
