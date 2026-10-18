@@ -1,7 +1,7 @@
 # PRD — DORA Metrics Dashboard
 
 **Author:** Shubham Wagdarkar
-**Status:** Shipped (Week 25)
+**Status:** Shipped
 **Last Updated:** 2026-10-18
 
 ---
