@@ -1,7 +1,5 @@
 # dora-metrics-dashboard
 
-> Week 25 of 42 — DORA Metrics Dashboard
-
 Pulls live deployment and incident data from **GitHub** and **PagerDuty**, computes the four DORA metrics, and renders a colour-coded performance report in the terminal, Markdown, or JSON.
 
 ## The Four DORA Metrics
